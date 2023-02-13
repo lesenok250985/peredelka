@@ -110,5 +110,8 @@ switch (mask)
         break;
     case "!(r > d)":
         Console.WriteLine($"Measured value is {mask}.");
+        
+
+
 }
 }
